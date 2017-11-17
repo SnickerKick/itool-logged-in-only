@@ -4,7 +4,7 @@ Plugin Name: Insight Tools Logged In Only
 Plugin URI: https://github.com/SnickerKick/itool-logged-in-only
 Description: Only allow logged in users to access the site
 Author: Insight Tools
-Version: 0.1
+Version: 1.0
 Author URI: https://www.insight-tools.com
 License: GPLv2
 */
